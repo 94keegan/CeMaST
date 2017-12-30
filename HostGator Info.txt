@@ -1,0 +1,20 @@
+HostGator:
+Domain: cemastvideo.com
+IP: 108.179.242.239
+Pin: 1994 (Use this when calling HostGator Support)
+
+HostGator Login:
+https://portal.hostgator.com/
+Email: cemast@ilstu.edu
+PW: dontMessthisup43
+
+FTP:
+IP: 108.179.242.239
+Username: cemast@cemastvideo.com
+PW: dontMessthisup43
+
+cpanel:
+https://cloud58.hostgator.com:2083
+Username: p6q5n6g8
+PW: dontMessthisup43
+
